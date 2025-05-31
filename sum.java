@@ -1,6 +1,6 @@
 import java.util.*;
 
-class 3Sum {
+class Sum {
     public static void main(String[] args) {
         int[] arr = { 1, -1, 0, 2, -1, -4 };
         Arrays.sort(arr);
